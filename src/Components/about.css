@@ -1,0 +1,22 @@
+.about-main{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.about h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.about h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-main div{
+    padding: 50px;
+}
+.about-main p{
+    font-size: 20px;
+}
